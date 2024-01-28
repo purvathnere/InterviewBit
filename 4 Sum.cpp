@@ -25,10 +25,4 @@ vector<vector<int> > Solution::fourSum(vector<int> &nums, int target) {
         return ans;
 }
 
-// We need to store unique combinations
-// So we used set to store them up
-// sort helps use to get the increasing order
-// Long Long used for large test cases
-
-// Do hit the like button, if u guys like this solution!!
 
